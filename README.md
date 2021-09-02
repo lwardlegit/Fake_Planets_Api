@@ -1,4 +1,4 @@
-    ### Example Usage
+    ### Example Usage ###
 
 
     path('planets', views.planets) => Ex: http://localhost:8000/planets
